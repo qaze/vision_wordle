@@ -1,5 +1,4 @@
-# vision_wordle
-VisionOS Wordle Game
+# VisionOS Wordle Game
 
 ## Description
 
